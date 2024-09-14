@@ -45,3 +45,5 @@ GEN_ALL_POS_MOV	<br />
 -Write better readme.
 
 -Create a visualization of this, preferably a tic-tac-toe game with a bot.
+
+-Change new and delete to smart pointers.
